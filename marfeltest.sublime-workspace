@@ -1,0 +1,522 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ng-r",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"con",
+				"config	AngularJS"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"img",
+				"imgright"
+			],
+			[
+				"left",
+				"lefttext"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"conf",
+				"configfile"
+			],
+			[
+				"ngli",
+				"ng-click	AngularJS"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"char",
+				"charCodeAt"
+			],
+			[
+				"curr",
+				"currentQ"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pad",
+				"padless"
+			],
+			[
+				"make",
+				"make-row"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margi",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "/C/Users/JRM/AppData/Local/Temp/7zE5C92.tmp/style.css",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "form",
+		"selected_items":
+		[
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"css",
+				"Format CSS: Expanded"
+			],
+			[
+				"fom",
+				"Format: Javascript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"forem",
+				"Format CSS: Expanded"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 792.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/marfeltest",
+		"/D/marfeltest/app",
+		"/D/marfeltest/app/scripts",
+		"/D/marfeltest/app/scripts/controllers",
+		"/D/marfeltest/app/scripts/directives",
+		"/D/marfeltest/app/styles",
+		"/D/marfeltest/app/views",
+		"/D/marfeltest/bower_components"
+	],
+	"file_history":
+	[
+		"/D/marfeltest/.gitignore",
+		"/C/Users/JRM/AppData/Local/Temp/7zO3581.tmp/radils.js",
+		"/D/workprojects/marfeltest/radils.js",
+		"/D/workprojects/marfeltest/index.html",
+		"/D/workprojects/marfeltest/style.css",
+		"/D/workprojects/radils.js",
+		"/D/workprojects/style.css",
+		"/D/workprojects/index.html",
+		"/D/marfeltest/app/scripts/directives/radial.js",
+		"/D/workprojects/radialprogress.js",
+		"/D/marfeltest/app/scripts/controllers/about.js",
+		"/D/marfeltest/app/styles/main.css",
+		"/D/marfeltest/app/scripts/controllers/main.js",
+		"/D/marfeltest/app/index.html",
+		"/D/marfeltest/app/scripts/app.js",
+		"/D/marfeltest/app/scripts/services/d3service.js",
+		"/D/marfeltest/app/views/main.html",
+		"/D/marfeltest/bower.json",
+		"/D/radialprogress/radialprogress/src/theme/radialprogress.js",
+		"/D/radialprogress/radialprogress/radialprogress_test.js",
+		"/D/radialprogress/radialprogress/src/theme/_theme.js",
+		"/D/workprojects/lifeimprovement/app/styles/forms.less",
+		"/D/workprojects/lifeimprovement/app/scripts/controllers/main.js",
+		"/D/workprojects/lifeimprovement/app/scripts/directives/slider.js",
+		"/D/workprojects/lifeimprovement/app/views/results.html",
+		"/D/radialprogress/radialprogress/src/core/format.js",
+		"/D/radialprogress/radialprogress/src/svg/_svg.js",
+		"/D/radialprogress/radialprogress/src/svg/text.js",
+		"/D/radialprogress/radialprogress/src/svg/filter.js",
+		"/D/radialprogress/radialprogress/src/svg/gradient.js",
+		"/C/Users/JRM/AppData/Local/Temp/7zO45C9.tmp/input001.txt",
+		"/D/workprojects/lifeimprovement/app/scripts/controllers/results.js",
+		"/D/dropbox/Dropbox/Dropbox/interviews questions/numberpacker.js",
+		"/C/Users/JRM/AppData/Local/Temp/7zOA61E.tmp/_component.js",
+		"/C/Users/JRM/AppData/Local/Temp/7zOE072.tmp/input001.txt",
+		"/D/workprojects/lifeimprovement/app/views/main.html",
+		"/C/Users/JRM/AppData/Local/Temp/7zOC9D6.tmp/input001.txt",
+		"/C/Users/JRM/AppData/Local/Temp/7zOB829.tmp/output001.txt",
+		"/D/workprojects/lifeimprovement/app/styles/variables.less",
+		"/D/workprojects/lifeimprovement/app/styles/main.less",
+		"/D/workprojects/lifeimprovement/app/views/quiz.html",
+		"/D/workprojects/lifeimprovement/app/styles/quiz.less",
+		"/D/workprojects/lifeimprovement/Gruntfile.js",
+		"/D/workprojects/lifeimprovement/app/php/metagenerator.inc.php",
+		"/D/workprojects/lifeimprovement/dist/php/metagenerator.inc.php",
+		"/C/Users/JRM/AppData/Local/Temp/fz3temp-1/metagenerator.inc.php",
+		"/D/workprojects/lifeimprovement/config.json",
+		"/D/workprojects/lifeimprovement/app/styles/headernfooter.less",
+		"/D/workprojects/lifeimprovement/app/404.html",
+		"/D/workprojects/lifeimprovement/app/scripts/controllers/quiz.js",
+		"/D/workprojects/lifeimprovement/app/scripts/services/config.js",
+		"/D/workprojects/lifeimprovement/app/styles/buttons.less",
+		"/D/workprojects/lifeimprovement/app/styles/caroussel.less",
+		"/D/workprojects/lifeimprovement/app/index.html",
+		"/D/workprojects/lifeimprovement/app/styles/results.less",
+		"/D/workprojects/lifeimprovement/app/scripts/directives/toggleclass.js",
+		"/D/workprojects/staticnode/static.js",
+		"/D/workprojects/lifeimprovement/bower_components/angular-animate/angular-animate.js",
+		"/D/workprojects/lifeimprovement/app/styles/mixins.less",
+		"/D/jorros/The.Venture.Bros.S06E08.HDTV.x264-BATV[ettv]/Torrent-Downloaded-from-ExtraTorrent.cc.txt",
+		"/C/Users/JRM/AppData/Local/Temp/fz3temp-1/index.php",
+		"/D/workprojects/lifeimprovement/dist/index.php",
+		"/D/workprojects/lifeimprovement/app/views/header.html",
+		"/D/workprojects/lifeimprovement/app/scripts/services/session.js",
+		"/D/workprojects/lifeimprovement/app/scripts/app.js",
+		"/D/workprojects/lifeimprovement/app/scripts/services/dataapi.js",
+		"/D/workprojects/lifeimprovement/app/php/userCreate.php",
+		"/C/Users/JRM/AppData/Local/Temp/fz3temp-1/userCreate.php",
+		"/D/workprojects/lifeimprovement/app/php/sameUserCreate.php",
+		"/C/Users/JRM/AppData/Local/Temp/fz3temp-1/sameUserCreate.php",
+		"/D/workprojects/lifeimprovement/package.json",
+		"/D/workprojects/lifeimprovement/dist/index.html",
+		"/D/workprojects/lifeimprovement/bower.json",
+		"/D/workprojects/lifeimprovement/app/styles/main.css",
+		"/D/workprojects/lifeimprovement/app/scripts/directives/autoresize.js",
+		"/D/workprojects/lifeimprovement/app/scripts/directives/zipcode.js",
+		"/D/workprojects/lifeimprovement/app/views/footer.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"D:\\workprojects\\lifeimprovement\\app\\styles",
+			"",
+			"styles"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"values",
+			"mouse",
+			"value",
+			"data",
+			"mouse",
+			"accessor",
+			"d3",
+			"_width",
+			"width",
+			"_currentArc",
+			"_currentArc2",
+			"attrTween",
+			"value",
+			"$",
+			"svg",
+			"filer",
+			"filere",
+			"header",
+			"button-container",
+			"backg",
+			"first",
+			"56px",
+			"margin-top",
+			"addclass",
+			"animate",
+			"font-weight",
+			"filerev",
+			"filere",
+			"lighter",
+			"html",
+			"rename",
+			"htmlmin",
+			"copy",
+			"tmp",
+			"compete-sect",
+			"compete-sec",
+			"transition",
+			"compete-section",
+			"ages/speech-bubble.",
+			"after",
+			"quiz",
+			"heigh",
+			"input",
+			"img",
+			"speech",
+			"less",
+			"speech",
+			"speech-bubble",
+			"speech",
+			"answer-la",
+			"canvas",
+			"img",
+			"carr",
+			"polyg",
+			"active",
+			"jumbotron",
+			"header",
+			"canvas",
+			"social",
+			"paddin",
+			"footer",
+			"quiz"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/JRM/AppData/Local/Temp/7zE5C92.tmp/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "marfeltest.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"forms",
+				"app\\styles\\forms.less"
+			],
+			[
+				"quiz",
+				"app\\styles\\quiz.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 457.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

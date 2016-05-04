@@ -1,0 +1,16 @@
+<div class="row marketing">
+  
+  <div class="radials">
+  <div class="radial-container" ng-repeat="d in data"><radial data=d></radial>
+  <span>
+  	<p style="color: {{d[0].fill}}">{{d[0].label}}</p>
+  	<p>{{(d[0].value / (d[0].value + d[1].value ))*100}}% <em>{{d[0].value}}</em></p>
+  </span>
+  <span>
+  	<p style="color: {{d[1].fill}}">{{d[1].label}}</p>
+  	<p>{{(d[1].value / (d[0].value + d[1].value ))*100}}% <em>{{d[1].value}}</em></p>
+  </span>
+  </div>
+  </div>
+  <res-donut data="data_res" accessor="accessor_res" class="donut"></res-donut> 
+</div>
